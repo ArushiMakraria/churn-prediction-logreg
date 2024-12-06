@@ -69,7 +69,7 @@ This project addresses customer churn prediction for a telecommunications compan
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/ArushiMakraria/churn-prediction-logreg)
+   git clone https://github.com/ArushiMakraria/churn-prediction-logreg
    ```
 2. Access the analysis scripts and dataset.
 3. Follow the provided notebooks for step-by-step implementation and insights.
